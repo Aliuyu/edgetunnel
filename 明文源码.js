@@ -6,7 +6,7 @@ import { connect } from "cloudflare:sockets";
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = "";
 
-const proxyIPs = [""]; 
+const proxyIPs = ["585d624f-24df-4cd2-bc29-2950fb988692"]; 
 const cn_hostnames = ['docs.cloudreve.org'];
 let CDNIP = ''
 // http_ip
