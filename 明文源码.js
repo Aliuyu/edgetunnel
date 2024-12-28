@@ -1,7 +1,7 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '';
+let userID = '4396da28-f972-4147-aa7b-e1836a34daaf';
 let proxyIP = '';
 let hostname = 'docs.cloudreve.org';
 let sub = '';
