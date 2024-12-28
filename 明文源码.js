@@ -3,7 +3,8 @@ import { connect } from 'cloudflare:sockets';
 
 let userID = '';
 let proxyIP = '';
-let sub = 'docs.cloudreve.org';
+let hostname = 'docs.cloudreve.org';
+let sub = '';
 let subConverter = '';
 let subConfig = "";
 let subProtocol = 'https';
